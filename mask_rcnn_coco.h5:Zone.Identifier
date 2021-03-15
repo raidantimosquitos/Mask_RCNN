@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/matterport/Mask_RCNN/releases
+HostUrl=https://github-releases.githubusercontent.com/107595270/872d3234-d21f-11e7-9a51-7b4bc8075835?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210218T091857Z&X-Amz-Expires=300&X-Amz-Signature=d79980ac20ea0339642eecafbc85585e7920831772c68844607900031dcb369b&X-Amz-SignedHeaders=host&actor_id=71394439&key_id=0&repo_id=107595270&response-content-disposition=attachment%3B%20filename%3Dmask_rcnn_coco.h5&response-content-type=application%2Foctet-stream
