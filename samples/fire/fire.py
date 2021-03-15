@@ -250,7 +250,7 @@ if __name__ == '__main__':
 
     # Load weights
     print("Loading weights ", model_path)
-    model.load_weights(model_path, by_name=True)
+    model.load_weights(model_path, by_name=True, exclude=["mrcnn_bbox_fc","mrcnn_class_logits"])
 
     # Train or evaluate
     if args.command == "train":
